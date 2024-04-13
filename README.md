@@ -1,6 +1,6 @@
 # COMP47500 Assignment 4
 
-Graphs: Spell Checker using Hash Table
+ Hashing: Spell Checker using Hash Table
 
 This assignment involves the implementation of a spell checker using a hash table. The spell checker is implemented in HashTable.java, and it utilizes the hash table data structure to efficiently store and retrieve words for spell checking.
 
